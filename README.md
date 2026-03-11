@@ -31,6 +31,7 @@ Magistrale in Beni archeologici, artistici e del paesaggio: storia, tutela e val
 Alma Mater Studiorum Università di Bologna  
 
 Corso: *Informatica per i beni culturali: Digital Humanities e Data Management*
+
 Docente: Sebastian Barzaghi
 
 ## Licenza
