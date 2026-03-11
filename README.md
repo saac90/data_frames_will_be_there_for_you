@@ -26,6 +26,7 @@ Progetto realizzato da:
 
 **Sebastián Arenas Alvarez-Calderón**  
 https://orcid.org/0000-0001-5371-1525
+
 Magistrale in Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione  
 Alma Mater Studiorum Università di Bologna  
 
