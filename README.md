@@ -2,6 +2,7 @@
 
 ## Descrizione
 Questo progetto analizza un dataset di 2444 opere d’arte attraverso strumenti di data analysis in Python (Pandas) nell’ambiente Google Colab.  
+
 L’obiettivo è studiare i *pattern* di rappresentazione all’interno della collezione, concentrandosi su tre aspetti: la distribuzione di genere degli artisti nel tempo, la presenza relativa di opere religiose e laiche, e la rappresentazione di alcuni artisti canonici del Rinascimento (Leonardo, Michelangelo, Raffaello e Donatello).
 
 L’analisi combina Exploratory Data Analysis ed Explanatory Data Analysis per individuare pattern storici e possibili bias nella composizione della collezione.
